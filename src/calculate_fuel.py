@@ -1,3 +1,2 @@
 def calculate_fuel(distance):
-  # Type your code
-  return
+    return max(distance * 10, 100)
